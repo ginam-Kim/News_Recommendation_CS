@@ -1,4 +1,5 @@
 # News Recommendation Customer Service
+Consumer-focused news recommendation service through Natural Language Processing
 
 ## ✍ 요약
 - 고객 결제 데이터 분석과 Fine-Tunning한 한국어 뉴스 분류 모델을 통해 소비자 맞춤형 뉴스 추천서비스를 제공하였다.
