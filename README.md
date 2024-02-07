@@ -6,7 +6,7 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 - Streamlit을 활용한 WebPage 구축을 통해 분석 결과의 활용성을 높혔다.
 
-- 한국소비자원의 요청으로 **서비스화 실증분석** 진행하였다.(2023. 11 ~ 2023. 12) | 
+- 한국소비자원의 요청으로 **서비스화 실증분석** 진행하였다.(2023. 11 ~ 2023. 12) | [Customized_KCA_Web_Page](https://github.com/ginam-Kim/News_Recommendation_CS)
 
 
 <img src="https://github.com/ginam-Kim/News_Recommendation_CS/assets/125203829/c3b28220-c52e-477b-b08e-6c44d35c9267"  width="760">
